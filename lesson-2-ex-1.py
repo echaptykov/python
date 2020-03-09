@@ -1,5 +1,5 @@
 '''
-Урок 2 Задание 1
+    Урок 2 Задание 1
 '''
 def print_type_script (in_list):
     in_list_len = len (in_list)
